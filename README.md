@@ -1,6 +1,6 @@
 `Status: In Progress`
 ![tensorflow](https://miro.medium.com/max/4928/1*-QTg-_71YF0SVshMEaKZ_g.png)
-## TensorFlow 2.0 Tutorials - V1
+## TensorFlow 2.0 Tutorials
 > [TensorFlow](https://www.tensorflow.org/) is an open-source machine learning library for research and production. TensorFlow offers APIs for beginners and experts to develop for desktop, mobile, web, and cloud. See the sections below to get started. 
 
 ## Why TensorFlow?
