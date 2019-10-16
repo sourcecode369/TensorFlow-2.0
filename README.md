@@ -1,4 +1,4 @@
-## TensorFlow 2.0 - RC Notebooks
+## TensorFlow 2.0 - Colaboratory Notebooks
 
 ![tensorflow](https://miro.medium.com/max/4928/1*-QTg-_71YF0SVshMEaKZ_g.png)
 ### TensorFlow 2.0
