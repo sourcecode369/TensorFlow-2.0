@@ -80,7 +80,7 @@ For more examples, see the
 
 ## Contribution guidelines
 
-**If you want to contribute to TensorFlow, be sure to review the [contribution
+**If you want to contribute to Tensorflow, be sure to review the [contribution
 guidelines](CONTRIBUTING.md). This project adheres to TensorFlow's
 [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to
 uhold this code.**
