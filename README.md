@@ -55,7 +55,7 @@ Use the GPU package for
 $ pip install tensorflow-gpu
 ```
 
-*Nightly binary are available for testing using the
+*Nightly binaries are available for testing using the
 [tf-nightly](https://pypi.python.org/pypi/tf-nightly) and
 [tf-nightly-gpu](https://pypi.python.org/pypi/tf-nightly-gpu) packages on PyPi.*
 
