@@ -18,7 +18,7 @@ deploy ML powered applications.
   <img src="https://sdtimes.com/wp-content/uploads/2019/01/0_fJ5u2WE51Oz44dr_-490x272.png"/>
 </p>
 
-TensorFlow was originally developed by researchers and engineers working on the
+TensorFlow was originally developed by researcher and engineers working on the
 Google Brain team within Google's Machine Intelligence Research organization for
 the purposes of conducting machine learning and deep neural networks research.
 The system is general enough to be applicable in a wide variety of other
